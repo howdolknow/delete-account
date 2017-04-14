@@ -30,8 +30,8 @@ function deleteaccount_info()
 	return array(
 		"name"			=> $lang->da_delete_account_name,
 		"description"	=> $lang->da_delete_account_desc,
-		"website"		=> "https://github.com/PenguinPaul/delete-account",
-		"author"		=> "MyBB Security Group",
+		"website"		=> "http://asylum.im",
+		"author"		=> "HDIK/Loki",
 		"authorsite"	=> "http://www.mybbsecurity.net",
 		"version"		=> "1.1",
 		"guid" 			=> "",
